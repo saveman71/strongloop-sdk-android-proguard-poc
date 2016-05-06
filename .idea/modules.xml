@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StrongloopTest.iml" filepath="$PROJECT_DIR$/StrongloopTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vendor/loopback-sdk-android/loopback-sdk-android.iml" filepath="$PROJECT_DIR$/vendor/loopback-sdk-android/loopback-sdk-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vendor/vendor.iml" filepath="$PROJECT_DIR$/vendor/vendor.iml" />
+    </modules>
+  </component>
+</project>

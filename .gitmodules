@@ -1,0 +1,3 @@
+[submodule "vendor/loopback-sdk-android"]
+	path = vendor/loopback-sdk-android
+	url = git@github.com:strongloop/loopback-sdk-android.git
