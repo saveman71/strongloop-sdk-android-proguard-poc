@@ -23,3 +23,6 @@
 -keep public class * extends java.lang.Exception
 -keepattributes SourceFile,LineNumberTable,*Annotation*
 
+-keepclassmembers class * extends com.strongloop.android.loopback.Model {
+    public <methods>;
+}
